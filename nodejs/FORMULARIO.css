@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('IMG/2.jpg') no-repeat;
+    background-size: cover;
+}
+
+
+form {
+    background: rgba(200, 200, 200, 0.7);
+    width: 100px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+/*linear-gradient(to top, rgba(98, 98, 99, 0.171) 0%, rgba(94, 92, 93, 0.151) 100%),  */
+h1 {
+    text-align: center;
+}
+
+
+div img {
+    max-width: 100px;
+    float: left;
+    margin-right: 20px;
+}
+
+p {
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+}
+
+input[type="checkbox"] {
+    margin-top: 10px;
+}
+
+button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: #0073e6;
+}
+
+
+a:hover {
+    color: #004e9a;
+}
+
+#image-container {
+    float: left;
+    margin-right: 20px; 
+}
+
+form {
+    width: 100px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    align-items:  center;
+}
+ .contenedor_formulario {
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgb(192, 191, 191);
+    border: 2px solid #ccc;
+    padding: 55px;
+ }
+
