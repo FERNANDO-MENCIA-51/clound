@@ -61,7 +61,7 @@ button {
 
 a {
     text-decoration: none;
-    color: #0073e6;
+    color: red;
 }
 
 
@@ -81,6 +81,7 @@ form {
     border: 1px solid #ccc;
     border-radius: 5px;
     align-items:  center;
+    opacity: 1;
 }
  .contenedor_formulario {
     margin-left: 30%;
@@ -88,5 +89,9 @@ form {
     background-color: rgb(192, 191, 191);
     border: 2px solid #ccc;
     padding: 55px;
+ }
+
+ button {
+    background-color: chartreuse;
  }
 
